@@ -1,1 +1,1 @@
-This repository contains two assignment strategies. The codes can be used with any scenario containing the plan file, PT network and PT schedule, vehicles files.
+This repository contains two assignment strategies. The codes can be used with any scenario containing the plan file, PT network and PT schedule, and vehicle files. The first base strategy can be run without PT files.
